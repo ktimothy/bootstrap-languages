@@ -1,11 +1,11 @@
 {
-    "name": "bootstrap-languages",
+    "name": "bootstrap-languages-fork",
     "main": [
                 "languages.min.css",
                 "languages.png"
             ],
-    "version": "1.0.0",
-    "homepage": "https://github.com/usrz/bootstrap-languages",
+    "version": "0.0.1",
+    "homepage": "https://github.com/ktimothy/bootstrap-languages",
     "authors": [
         "Pier Fumagalli <pier@usrz.com>"
     ],
